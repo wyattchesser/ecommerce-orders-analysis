@@ -42,7 +42,7 @@ A retail business needs insights into:
 
 
 ## 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 https://public.tableau.com/app/profile/wyatt.chesser/viz/E-CommercePerformanceProject/E-CommercePerformanceDashboard#1
 
 
